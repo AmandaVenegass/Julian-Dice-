@@ -39,12 +39,21 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 
 #### Procedimiento estructura 
 
+Dimensiones 
+
+<img width="533" height="383" alt="image" src="https://github.com/user-attachments/assets/4fe1a6f7-bba1-4975-9368-b713091a33ce" />
+
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/415080ce-c2fc-4bfa-abf7-26163d8db3fe" />
+
+Resultado
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/be4b9028-0105-4cbb-b84f-fb00ca0db4b9" />
+
 
 #### Procedimiento programa Arduino 
 
 
-#### Fotos 
+#### Fotos y videos 
 
+https://github.com/user-attachments/assets/04f1fa3d-457d-432f-8b92-0959baa3ec6d
 
-<img width="1600" height="1148" alt="image" src="https://github.com/user-attachments/assets/4fe1a6f7-bba1-4975-9368-b713091a33ce" />
 
