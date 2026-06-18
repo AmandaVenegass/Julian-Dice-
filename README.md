@@ -22,7 +22,7 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 | Tornillos de 4  | 12 |
 | Tornillos de 3.5 | 32 |
 | Escuadra de 90 grados 20 x 20 | 1|
-| MDF o madera | 4 x 2 |
+| MDF o madera 4 x 2 cm |   |
 | Acrilico 5mm, 25 x 25 cm  | 5 |
 | Espuma de alta densidad de 10 mm | 1 metro |
 
@@ -37,5 +37,14 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 | LEDs 5v | 10 m |
 | Power Bank 5v | 1 |
 
-Procedimiento 
+#### Procedimiento estructura 
+
+
+#### Procedimiento programa Arduino 
+
+
+#### Fotos 
+
+
+<img width="1600" height="1148" alt="image" src="https://github.com/user-attachments/assets/4fe1a6f7-bba1-4975-9368-b713091a33ce" />
 
