@@ -54,6 +54,7 @@ Resultado
 
 #### Fotos y videos 
 
-https://github.com/user-attachments/assets/04f1fa3d-457d-432f-8b92-0959baa3ec6d
+https://github.com/user-attachments/assets/20701dcc-eab8-4ea8-a3dd-525fbb18fa77
+
 
 
