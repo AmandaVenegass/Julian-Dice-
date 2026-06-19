@@ -64,8 +64,6 @@ https://github.com/user-attachments/assets/20701dcc-eab8-4ea8-a3dd-525fbb18fa77
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6d07d56a-92a3-41dd-bb4f-c0d575dddf95" />
 
 https://github.com/user-attachments/assets/fa6ab917-479f-417f-89ed-e467b09bb653
-
-
 https://github.com/user-attachments/assets/773a18bb-09dc-4cbd-b2fd-4a244573ee49
 
 
