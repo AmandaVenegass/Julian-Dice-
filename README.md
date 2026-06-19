@@ -53,6 +53,9 @@ Dimensiones
 5. Presionar **Verify** para comprobar que el código es correcto.
 6. Presionar **Upload** para cargar el programa en la placa.
 7. Verificar el funcionamiento del sistema del juego
+
+<img width="374" height="61" alt="image" src="https://github.com/user-attachments/assets/f4645f3a-dedb-41e9-8a73-0975fb97b070" />
+
    
 ### Resultado
 https://github.com/user-attachments/assets/20701dcc-eab8-4ea8-a3dd-525fbb18fa77
