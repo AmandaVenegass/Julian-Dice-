@@ -1,15 +1,11 @@
 # Julian Dice
 
 Julian Dice es un juego colaborativo de memoria y secuencia basado en la mecánica de "Simón dice" donde los jugadores observan
-y reproducen correctamente series de luces y sonidos. 
+y reproducen correctamente series de luces y sonidos.
+---
+Este proyecto inicio a traves de una investigacion del espacio "Museo de ciencia y tegnologia" ubicado en el metro Quinta Normal
 
-Este proyecto inicio a traves de una investigacion de observación de el espacio Museo de ciencia y tegnologia ubicado en el metro Quinta Normal, 
-
-Nosotros llegamos a la conclusión de que en la actualidad el Museo de Ciencia y Tecnología enfrenta el desafío de captar y mantener la atención 
-de los visitantes durante su recorrido. Se observo una escasez de experiencias interactivas y de juegos cooperativos que fomenten 
-la participación grupal, junto con una presencia limitada de recursos tecnológicos y elementos visuales capaces de generar interés 
-y atraer al público. Esta situación dificulta la participación activa y reduce las oportunidades de interacción, colaboración y conexión 
-con el espacio.
+A través de nuestra observación e investigación, identificamos que en la actualidad el Museo de Ciencia y Tecnología enfrenta el desafío de captar y mantener la atención de los visitantes durante su recorrido. Esto se debe a una escasez de experiencias interactivas y de juegos cooperativos que fomenten la participación grupal, junto con una presencia limitada de recursos tecnológicos y elementos visuales capaces de generar interés y atraer al público. Como consecuencia, esta situación dificulta la participación activa y reduce las oportunidades de interacción, colaboración y conexión con el espacio
 
 En este contexto, la incorporación de elementos interactivos que estimulan la memoria y la atención, denominados reactivos cognitivos, 
 permite una participación más significativa. Mediante una experiencia interactiva, este recurso favorece un mayor compromiso y participación 
