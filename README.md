@@ -12,9 +12,8 @@ En este contexto, la incorporación de elementos interactivos que estimulan la m
 permite una participación más significativa. Mediante una experiencia interactiva, este recurso favorece un mayor compromiso y participación 
 durante el recorrido, y contribuye a generar una experiencia de aprendizaje más dinámica y significativa.
 
----
 
-#### Materiales estructura
+### Materiales estructura
 
 | Materiales estructura | Cantidad |
 |------------|----------|
@@ -26,7 +25,7 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 | Espuma de alta densidad de 10 mm | 1 metro |
 | polietileno expandido de 1,5 cm de espesor| Varios |
 
-#### Materiales electronicos
+### Materiales electronicos
  
 | Componentes electronicos | Cantidad |
 |------------|----------|
@@ -47,16 +46,19 @@ Dimensiones
 
 ### Instalación
 
-1. Instalar [Arduino IDE](https://docs.arduino.cc/software/ide/)  según el sistema operativo.
+1. Instalar [Arduino IDE](https://docs.arduino.cc/software/ide/) según el sistema operativo.
 2. Conectar la placa Arduino al computador mediante USB.
 3. Seleccionar la placa y el puerto correspondiente en Arduino IDE.
-4. Presionar **Verify** para comprobar que el código es correcto.
-5. Presionar **Upload** para cargar el programa en la placa.
-6. Verificar el funcionamiento del sistema del juego
+4. Copiar y pegar codigo de funcionamiento de [Julian dice](-)
+5. Presionar **Verify** para comprobar que el código es correcto.
+6. Presionar **Upload** para cargar el programa en la placa.
+7. Verificar el funcionamiento del sistema del juego
    
 ### Resultado
 https://github.com/user-attachments/assets/20701dcc-eab8-4ea8-a3dd-525fbb18fa77
 
 ### Fotos y videos 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/db049560-bbda-4299-b85f-8a17a47e9930" />
+
 
 
