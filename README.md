@@ -1,6 +1,7 @@
-# Julian Dice
+## Julian Dice
 
 Julian Dice es un juego colaborativo de memoria y secuencia basado en la mecánica de "Simón dice" donde los jugadores observan y reproducen correctamente series de luces y sonidos.
+
 ---
 
 Este proyecto inicio a traves de una investigacion del espacio "Museo de ciencia y tegnologia" ubicado en el metro Quinta Normal
@@ -11,7 +12,9 @@ En este contexto, la incorporación de elementos interactivos que estimulan la m
 permite una participación más significativa. Mediante una experiencia interactiva, este recurso favorece un mayor compromiso y participación 
 durante el recorrido, y contribuye a generar una experiencia de aprendizaje más dinámica y significativa.
 
-#### Materiales 
+---
+
+#### Materiales estructura
 
 | Materiales estructura | Cantidad |
 |------------|----------|
@@ -22,6 +25,8 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 | Acrilico 5mm, 25 x 25 cm  | 5 Un |
 | Espuma de alta densidad de 10 mm | 1 metro |
 | polietileno expandido de 1,5 cm de espesor| Varios |
+
+#### Materiales electronicos
  
 | Componentes electronicos | Cantidad |
 |------------|----------|
@@ -33,13 +38,14 @@ durante el recorrido, y contribuye a generar una experiencia de aprendizaje más
 | LEDs 5v | 10 m |
 | Power Bank 5v | 1 |
 
-#### Procedimiento
+### Procedimiento
+---
 
 Dimensiones 
 
 <img width="533" height="383" alt="image" src="https://github.com/user-attachments/assets/4fe1a6f7-bba1-4975-9368-b713091a33ce" />
 
-#### Instalación
+### Instalación
 
 1. Instalar [Arduino IDE](https://docs.arduino.cc/software/ide/)  según el sistema operativo.
 2. Conectar la placa Arduino al computador mediante USB.
@@ -48,18 +54,9 @@ Dimensiones
 5. Presionar **Upload** para cargar el programa en la placa.
 6. Verificar el funcionamiento del sistema del juego
    
-<img width="362" height="47" alt="image" src="https://github.com/user-attachments/assets/f3af0012-7155-4390-a8be-88f650629a2a" />
-
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/415080ce-c2fc-4bfa-abf7-26163d8db3fe" />
-
 ### Resultado
-
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/be4b9028-0105-4cbb-b84f-fb00ca0db4b9" />
-
-https://github.com/user-attachments/assets/3c8a82c1-200d-4d10-8a81-f22149b79b71
-
 https://github.com/user-attachments/assets/20701dcc-eab8-4ea8-a3dd-525fbb18fa77
 
-#### Fotos y videos 
+### Fotos y videos 
 
 
